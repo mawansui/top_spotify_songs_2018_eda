@@ -1,0 +1,3 @@
+# Top Spotify songs of 2018
+
+This repo contains the Top Spotify Songs of 2018 dataset downloaded from [here](https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018) and my exploratory data analysis (EDA) of it. It is currently a work in progress, marked by a rather abrupt ending. However, I will soon resume the work and will present the insights for the song writers which will have been gathered from the data.
